@@ -25,6 +25,12 @@ li, a {
   font-size: 25px;
   color: grey;
   text-decoration: none;
+  margin-top: 20px;
+}
+
+
+#heading {
+  margin-top: 45px;
 }
 
 a:hover {
